@@ -688,9 +688,9 @@ function Footer() {
             <h4 className="text-sm font-semibold">Contact</h4>
             <ul className="mt-3 space-y-2 text-sm text-slate-600 dark:text-slate-300">
               <li>📧 hello@saastra.app</li>
-              <li>📱 +91-99999-99999</li>
+              <li>📱 +91-7700812113</li>
               <li>
-                <a className="inline-flex items-center gap-2" href="https://wa.me/919999999999" target="_blank" rel="noreferrer">
+                <a className="inline-flex items-center gap-2" href="https://wa.me/917700812113" target="_blank" rel="noreferrer">
                   WhatsApp <MessageSquare className="h-4 w-4" />
                 </a>
               </li>
@@ -729,7 +729,7 @@ function BackToTop() {
 function WhatsAppFloat() {
   return (
     <a
-      href="https://wa.me/919999999999" // Replace with your number
+      href="https://wa.me/917700812113" // Replace with your number
       target="_blank"
       rel="noreferrer"
       className="fixed bottom-6 left-6 grid h-12 w-12 place-items-center rounded-full bg-green-600 text-white shadow-xl transition hover:translate-y-[-2px]"
